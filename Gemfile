@@ -14,6 +14,7 @@ end
 
 group :development do
 	gem 'sqlite3', '1.3.8'
+  	gem 'rspec-rails', '2.1.0'
 end
 
 # Use SCSS for stylesheets
